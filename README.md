@@ -28,7 +28,7 @@ Each visualization within this portfolio is crafted with precision, utilizing Ta
    - Ensured a user-friendly experience with intuitive navigation, interactive filters, and tooltips for enhanced understanding.
 
 #### Conclusion:
-This Tableau Public portfolio serves as a testament to the versatility and power of data visualization in unravelling complex narratives. I invite you to explore each project, uncover insights, and embark on a visual journey through the diverse landscapes of data.
+This Tableau Public portfolio shows the versatility and power of data visualization in simplifying complex information. I invite you to explore each project, uncover insights, and embark on a visual journey through the diverse landscapes of data.
 
 #### Contact Information:
 For inquiries, collaborations, or feedback, feel free to reach out to me at toyintuyi93@gmail.com. You can also view my Tableau Public via this link https://public.tableau.com/app/profile/toyin.oluwatuyi/vizzes
